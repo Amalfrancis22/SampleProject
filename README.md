@@ -1,1 +1,2 @@
 # SampleProject
+new line
